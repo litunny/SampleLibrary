@@ -24,6 +24,10 @@ class YourClass{
   * @return string
   */
    public function method1($param1){
-			return "Hello World";
+		return "Hello World";
+   }
+
+   public function getAuthorName () {
+       return "Osinnowo Emmanuel";
    }
 }
